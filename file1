@@ -2,3 +2,6 @@ working with the git and github
 in Distributed version control system, 
 Developers contribute their work into the central repository and
 develop the software.
+
+
+Distrivuted verstion control systems clients don't just check out th leatest snapshot of the files.
