@@ -2,3 +2,9 @@ working with the git branches
 
 Build automation transforms commits by team members automatically published into
 deployment artifacts which are ready for deployment and validation.
+
+Modifications on 08-feb-2023
+working with the git adv. commands
+Autobuild process is important for a fail strategy.
+
+provides the feedback on the quality of committed code changes
