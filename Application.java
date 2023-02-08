@@ -23,6 +23,21 @@ class Main {
       e.getStackTrace();
     }
   }
+
+  #feature202 changes by Deekshith on services module on 08-feb-2023
+   public static void main (String[] args){
+    System.out.println("Hello , this is sample program");   
+    double d = Math.random();
+    System.out.println("Random Number:"+d);
+ }
+ 
+}public static void sampleMethod(int a, int b) throws ArithmeticException{
+        System.out.println("Hello, this is sample method");
+        int c = a/b; //  int c = 4/2 which gets calculated as 2 
+        System.out.println("c:"+c); // c: 2
+   }
+
+
   #feature201 changes done by Srikanth on Reports module 08-feb-2023
   public static void main (String args[])  
 	{  
@@ -34,4 +49,5 @@ class Main {
 		//method calling  
 		findEvenOdd(num);  
 		}  
+
 }
