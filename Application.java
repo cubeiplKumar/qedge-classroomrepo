@@ -23,4 +23,15 @@ class Main {
       e.getStackTrace();
     }
   }
+  #feature201 changes done by Srikanth on Reports module 08-feb-2023
+  public static void main (String args[])  
+	{  
+		//creating Scanner class object     
+		Scanner scan=new Scanner(System.in);  
+		System.out.print("Enter the number: ");  
+		//reading value from the user  
+		int num=scan.nextInt();  
+		//method calling  
+		findEvenOdd(num);  
+		}  
 }
